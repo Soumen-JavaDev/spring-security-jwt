@@ -1,6 +1,6 @@
 package com.example.security.controlar;
 
-import com.example.security.config.JWTUtil;
+import com.example.security.utill.JWTUtil;
 import com.example.security.model.AuthRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
